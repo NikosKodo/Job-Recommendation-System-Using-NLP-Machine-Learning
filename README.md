@@ -1,4 +1,4 @@
-Overview
+Overview: 
 This project is a Job Recommendation System that utilizes Natural Language Processing (NLP) and Machine Learning techniques to analyze job descriptions, extract key features, and recommend relevant jobs based on similarity measures. The pipeline includes data preprocessing, feature extraction, clustering, dimensionality reduction, and similarity analysis to help users find the most relevant job postings.
 
 The job descriptions undergo cleaning and tokenization:
